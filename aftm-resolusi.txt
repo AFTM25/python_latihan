@@ -2,3 +2,5 @@ Python Latihan mencakup :
 - Latihan basic pemrograman
 - Latihan Logic dari masalah
 - Latihan mengembangkan skill dengan python
+- Membangun komunitas python di daerah ku
+- Mencoba build project sederhana dengan tkinter
