@@ -1,0 +1,4 @@
+Python Latihan mencakup :
+- Latihan basic pemrograman
+- Latihan Logic dari masalah
+- Latihan mengembangkan skill dengan python
